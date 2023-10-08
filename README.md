@@ -17,3 +17,7 @@ List of Experiments:
     B) Evaluation of Postfix Expression (Explanation Video Link- https://youtu.be/G0A6C5N3dyY )
 
     Develop a C++ program to evaluate a postfix expression using stack.
+
+4. Array Implementation of Queue (Explanation Video Link- https://youtu.be/hHqMM01p0O0 )  
+
+    To simulate the working of a queue of integers using an array with the following operations: (a) Insert (b) Delete (c) Display(d) queue full (e)queue empty
