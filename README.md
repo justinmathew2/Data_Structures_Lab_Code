@@ -21,3 +21,7 @@ List of Experiments:
 4. Array Implementation of Queue (Explanation Video Link- https://youtu.be/hHqMM01p0O0 )  
 
     To simulate the working of a queue of integers using an array with the following operations: (a) Insert (b) Delete (c) Display(d) queue full (e)queue empty
+
+5. Implementation of Singly Linked List (Explanation Video Link- https://youtu.be/TyYIbDbNnFs )
+
+    Implement the following operations in a singly linked list: Insertion operation at the front of the list, Deletion of an element from the list, displaying all elements in the list.
