@@ -29,3 +29,7 @@ List of Experiments:
 6. Linked list Implementation of Stack and Queue (Explanation Video Link- https://youtu.be/KjENb7sTBL4 )
 
     To simulate the working of a queue and stack of integers using a linked list.
+
+7. Implementation of Linear Search and Binary Search (Explanation Video Link- https://youtu.be/ZOifOjiQOwY)
+
+    To implement the working of implementation of linear search and binary search.
