@@ -25,3 +25,7 @@ List of Experiments:
 5. Implementation of Singly Linked List (Explanation Video Link- https://youtu.be/TyYIbDbNnFs )
 
     Implement the following operations in a singly linked list: Insertion operation at the front of the list, Deletion of an element from the list, displaying all elements in the list.
+
+6. Linked list Implementation of Stack and Queue (Explanation Video Link- https://youtu.be/KjENb7sTBL4 )
+
+    To simulate the working of a queue and stack of integers using a linked list.
