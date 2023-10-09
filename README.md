@@ -33,3 +33,7 @@ List of Experiments:
 7. Implementation of Linear Search and Binary Search (Explanation Video Link- https://youtu.be/ZOifOjiQOwY)
 
     To implement the working of implementation of linear search and binary search.
+
+8. Implementation of Insertion and Selection Sort (Explanation Video Link- https://youtu.be/do_6Gz4grGY )
+
+    To implement the working of implementation of insertion and selection sort.
