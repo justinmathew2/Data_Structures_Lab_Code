@@ -41,3 +41,7 @@ List of Experiments:
 9. Implementation of Hashing (Explanation Video Link- https://youtu.be/TcTiq5PtQbs)
 
     To implement the working of implementation of hashing.
+
+10. Implementation of Binary Search Tree (Explanation Video Link- https://youtu.be/AftsqAUyA2Q )
+
+    To implement the working of implementation of binary search tree.
