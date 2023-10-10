@@ -37,3 +37,7 @@ List of Experiments:
 8. Implementation of Insertion and Selection Sort (Explanation Video Link- https://youtu.be/do_6Gz4grGY )
 
     To implement the working of implementation of insertion and selection sort.
+
+9. Implementation of Hashing (Explanation Video Link- https://youtu.be/TcTiq5PtQbs)
+
+    To implement the working of implementation of hashing.
